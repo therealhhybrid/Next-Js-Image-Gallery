@@ -9,7 +9,7 @@ export default function Home() {
           <strong> Next Js</strong>
         </p>
         <ul>
-          <li>static and dynamuc server-side rendering</li>
+          <li>static and dynamic server-side rendering</li>
           <li>incremental static regeneration</li>
           <li> client-side rending</li>
           <li>route handlers (API endpoints)</li>

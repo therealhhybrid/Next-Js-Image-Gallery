@@ -68,6 +68,7 @@ export default function SearchPage() {
         <>
           {searchResults.map((image) => (
             <Image
+              key={image.id}
               src={image.urls.raw}
               width={250}
               height={250}

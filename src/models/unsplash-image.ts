@@ -1,5 +1,6 @@
 export interface UnsplashImage {
   description: string;
+  id: string;
   user: {
     username: string;
   };
